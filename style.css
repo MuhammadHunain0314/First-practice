@@ -1,0 +1,165 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0%;
+    padding: 0%;
+}
+.w3{
+    justify-content: space-between;
+    background-color: white;
+    height: 50px;
+    width: 100%;
+    position: relative;
+    position: fixed;
+    letter-spacing: 4px;
+    top: 0%;
+    z-index: 1;
+    box-shadow: 0px 3px 5px rgb(199, 195, 195);
+}
+.h1{
+    border: 1px;
+    height: 30px;
+    width: 240px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    cursor: pointer;
+}
+.h4{
+    border: 1px;
+    height: 30px;
+    width: 80px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+}
+.h3{
+    border: 1px;
+    height: 30px;
+    width: 80px;
+    position: absolute;
+    top: 20px;
+    right: 110px;
+    cursor: pointer;
+}
+.h2{
+    font-size: 15px;
+    width: 500px;
+    cursor: pointer;
+    height: 30px;
+    width: 80px;
+    position: absolute;
+    top: 20px;
+    right: 210px;
+    text-transform: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.m1{
+    position: relative;
+    width: 100%;
+    height: 780px;
+}
+.m1o1{
+    position: absolute;
+    left: 50px;
+    top: 0px;
+}
+.m1o2{
+    width: 550px;
+    text-align: center;
+    position: absolute;
+    right: 120px;
+    top: 70px;
+}
+.p1{
+    text-align: left;
+    font-size: larger;
+    font-family: 'Playfair', serif;
+    letter-spacing: 1px;
+}
+.p2{
+    text-align: left;
+    font-size: larger;
+    color: gray;
+    font-family:'Playfair', serif ;
+    letter-spacing: 1px;
+}
+mark{
+    background-color: rgb(245, 241, 241);
+}
+.p3{
+    font-size: 36px;
+    letter-spacing: 4px;
+}
+.p4{
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+.m2{
+    position: relative;
+    width: 100%;
+    height: 880px;
+}
+.m2o1{
+    width: 550px;
+    text-align: center;
+    position: absolute;
+    left: 120px;
+    top: 80px;
+}
+.m2o2{
+    position:absolute;
+    right: 130px;
+    top: 60px;
+}
+.p2o1{
+    font-size: 36px;
+    letter-spacing: 4px;
+}
+.p2o2{
+    text-align: left;
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+.p2o3{
+    text-align: left;
+    color: gray;
+}
+.m3{
+    height: 800px;
+    width: 100%;
+    position: relative;
+    width: 1220px;
+}
+.m31{
+    position: absolute;
+    top: 80px;
+    left: 120px;
+}
+.m3o1{
+    font-size: 36px;
+    letter-spacing: 4px;
+}
+.m3o2{
+    font-size: 18px;
+    color: rgb(45, 45, 97);
+}
+.m3o5{
+    padding-top: 16px;
+    padding-bottom: 16px;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid grey;
+    font-family: 'Times New Roman', Georgia, serif;
+    font-size: 15px;
+}
+.m3o6{
+    font-family: 'Times New Roman', Georgia, serif ;
+    font-size: 15px;
+    width: 0px;
+    cursor: pointer;
+    border: none;
+}
